@@ -1,1 +1,1 @@
-# koperasi-simpan-pinjam
+# Koperasi Simpan Pinjam
